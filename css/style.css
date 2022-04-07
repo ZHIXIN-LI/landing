@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Permanent+Marker&family=Rubik+Microbe&display=swap");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/pictures.css");
+@import url("components/apply-section.css");
+
+
+
+a{
+	text-decoration: none;
+} 
+
+h1{
+	font color: #FABC05;
+	font-family:'Permanent Marker', cursive;
+}
+
+h2{
+	font-family:'Permanent Marker', cursive;
+	font-size:45px;
+	font-weight: bold;
+	text-align: center;
+	font color: #525E75;
+}
+
+h3{
+	font-family:'Indie Flower', cursive;
+	font-size:35px;
+	font-weight: bold;
+	text-align: center;
+	font color: #22577E;
+}
+
+body {
+	font-family:'Indie Flower', cursive;
+	font-size:30px;
+	text-align: center;
+	margin:30px auto;
+	background-color: #8FBDD3;
+	font color: #333C83;
+}
+
+

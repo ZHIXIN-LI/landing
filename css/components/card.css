@@ -1,0 +1,46 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, .4);
+    border-radius: 20px;
+    margin: 40px 20px;
+    flex-basis: 150px;
+    flex-grow:1;
+}
+
+.card img{
+    width: 120px;
+    border-radius: 8px;
+}
+
+.card h3{
+    flex-grow: 1;
+    font-size: 28px;
+}
+
+#Middle{
+    background-color: #C17770;
+}
+
+#Confrontation{
+    background-color: #E7CAA1;
+}
+
+#Development{
+    background-color: #227BA6;
+}
+
+#Jungle{
+    background-color: #4E4058;
+}
+
+#Roaming{
+    background-color: #677F6C;
+}
